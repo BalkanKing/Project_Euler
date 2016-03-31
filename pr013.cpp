@@ -2,7 +2,8 @@
 #include <fstream>
 #include <iostream>
 #include <string>
-#include <stdio.h>
+#include <stdio.h>
+
 /////GGWP, arithmetic is dead
 
 using namespace std;
